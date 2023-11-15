@@ -1,0 +1,46 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Exam_I.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Card.cpp
+  Data.cpp
+  Expenses.cpp
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\Expenses.cpp(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\Expenses.cpp(168,15): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\Expenses.cpp(231,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(97,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(120,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(136,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(182,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(200,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(241,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(258,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(298,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(314,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(574,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(593,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(621,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(739,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(870,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1094,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1302,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1592,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1843,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1990,28): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(2157,28): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(2247,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(2425,29): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(774,18): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(911,19): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1002,19): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1131,18): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1349,24): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1462,24): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1669,23): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(1888,22): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(2057,22): warning C4101: k1: неиспользованная локальная переменная
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\main.cpp(2322,23): warning C4101: k1: неиспользованная локальная переменная
+  menu.cpp
+  Создание кода...
+C:\Lessons C++\EXAM2\Financial_management\Exam_I\Data.cpp(139): warning C4715: date::init_month_int: значение возвращается не при всех путях выполнения
+  Exam_I.vcxproj -> C:\Lessons C++\EXAM2\Financial_management\Debug\Financial_managment.exe

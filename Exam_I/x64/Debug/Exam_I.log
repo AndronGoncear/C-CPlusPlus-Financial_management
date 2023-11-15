@@ -1,0 +1,6 @@
+﻿  Card.cpp
+C:\Users\User\source\repos\Exam_I\Exam_I\Card.cpp(29,18): error C2270: Show: модификаторы недопустимы для функций, не являющихся членами
+C:\Users\User\source\repos\Exam_I\Exam_I\Card.cpp(40,40): error C2270: find_auto: модификаторы недопустимы для функций, не являющихся членами
+C:\Users\User\source\repos\Exam_I\Exam_I\Card.cpp(42,33): error C2270: save_to_file: модификаторы недопустимы для функций, не являющихся членами
+  main.cpp
+  Создание кода...
